@@ -1,7 +1,7 @@
 %undefine _debugsource_packages
 Name:           cosmic-idle
 Version:        1.0.0
-%define beta alpha.7
+%define beta beta.1.1
 Release:        %{?beta:0.%{beta}.}1
 Summary:        Idle notify manager for COSMIC
 License:        GPL-3.0-only
