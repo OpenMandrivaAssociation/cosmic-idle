@@ -1,6 +1,6 @@
 %undefine _debugsource_packages
 Name:           cosmic-idle
-Version:        1.0.2
+Version:        1.2.0
 #define beta beta.7
 Release:        %{?beta:0.%{beta}.}1
 Summary:        Idle notify manager for COSMIC
